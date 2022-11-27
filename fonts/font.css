@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'BebasNeueRegular';
+  src: url('BebasNeueRegular.eot');
+  src: url('BebasNeueRegular.eot?#iefix') format('embedded-opentype'),
+       url('BebasNeueRegular.svg#BebasNeueRegular') format('svg'),
+       url('BebasNeueRegular.ttf') format('truetype'),
+       url('BebasNeueRegular.woff') format('woff'),
+       url('BebasNeueRegular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'BebasNeueBold';
+  src: url('BebasNeueBold.eot');
+  src: url('BebasNeueBold.eot?#iefix') format('embedded-opentype'),
+       url('BebasNeueBold.svg#BebasNeueBold') format('svg'),
+       url('BebasNeueBold.ttf') format('truetype'),
+       url('BebasNeueBold.woff') format('woff'),
+       url('BebasNeueBold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
