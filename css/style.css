@@ -56,7 +56,7 @@ button:active,
 select:focus,
 select:active
 {
-    outline: none;
+    outline: none !important;
 }
 input{
     border: none;
@@ -986,6 +986,7 @@ input{
     margin-left: -20px;
   }
 }
+
 
 
 
