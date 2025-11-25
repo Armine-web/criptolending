@@ -901,7 +901,7 @@ input{
   font-family: 'Montserrat', sans-serif;
   font-style: normal;
   padding-left: 20px;
-  padding-right: 40px; /* для текста, чтобы не налезал на стрелку */
+  padding-right: 40px; /* достаточное место для стрелки */
 
   outline: none !important;
   box-shadow: none !important;
@@ -918,7 +918,7 @@ input{
 
   background-image: url('data:image/svg+xml;utf8,<svg fill="%23FFF" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z"/></svg>');
   background-repeat: no-repeat;
-  background-position: calc(100% - 15px) center; /* стрелка справа */
+  background-position: calc(100% - 15px) center;
   background-size: 20px;
 }
 
@@ -1032,6 +1032,7 @@ input{
     margin-left: -20px;
   }
 }
+
 
 
 
