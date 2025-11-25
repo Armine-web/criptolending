@@ -136,6 +136,10 @@ legend {
   margin-left: 86%;
 }
 
+.navbar-toggler.active {
+  margin-top: 20% !important;
+}
+
 .send{
   margin-left: 20px;
   padding: 16px 16px;
@@ -1032,6 +1036,7 @@ select.selectUser {
     margin-left: -20px;
   }
 }
+
 
 
 
